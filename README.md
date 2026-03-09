@@ -30,11 +30,3 @@ Languages
 
 </p>
 
-<h2 align='center'>
-Stats
-</h2>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rmaganza&count_private=true&show_icons=true&theme=dark" width="350"></a>
-</p>
-
